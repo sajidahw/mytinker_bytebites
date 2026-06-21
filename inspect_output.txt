@@ -1,0 +1,6 @@
+FoodItem: Spicy Burger 8.99 Mains 4.5
+FoodItem: Large Soda 2.49 Drinks 3.8
+Menu items: ['Spicy Burger', 'Large Soda']
+Transaction items: ['Spicy Burger', 'Large Soda']
+Customer: Ada
+Purchase history count: 1
